@@ -7,9 +7,8 @@ A simple command-line calculator to compute **Simple Interest** based on the giv
 ---
 
 ## 🧮 Formula Used
-\[
-\text{Simple Interest (SI)} = \frac{P \times T \times R}{100}
-\]
+
+> Simple Interest (SI) = P × T × R
 
 
 Where:
