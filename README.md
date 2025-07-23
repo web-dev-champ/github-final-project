@@ -20,12 +20,3 @@ Where:
 
 ---
 
-
-
-# Example usage
-principal = float(input("Enter the principal amount: "))
-time = float(input("Enter the time period in years: "))
-rate = float(input("Enter the annual rate of interest (as a decimal, e.g., 0.05 for 5%): "))
-
-si = calculate_simple_interest(principal, time, rate)
-print(f"Simple Interest: {si}")
